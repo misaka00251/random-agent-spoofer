@@ -577,6 +577,24 @@
 				"description":"Android Browsers",
 				"useragents":[
 					{
+						"description":"Android 9.0 - Chrome 74 on Samsung SM-G960F",
+						"useragent":"Mozilla/5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36",
+						"appname":"Netscape",
+						"appversion":"5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36)",
+						"platform":"Linux aarch64",
+						"vendor":"Google Inc.",
+						"vendorsub":"",
+						"buildID":"",
+						"oscpu":"",
+						"accept_encoding":"gzip, deflate, sdch",
+						"accept_default":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+						"accept_lang":{"en-US":"en-US;q=0.8,en;q=0.6"},
+						"pixeldepth":"24",
+						"colordepth":"24",
+						"screens":"1125x2436,2436x1125",
+						"profileID":"A1"
+					},
+					{
 						"description":"Android 4.0.3 - Galaxy S2 - Safari 534.30",
 						"useragent":"Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; Galaxy S II Build/GRJ22) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
 						"appname":"Netscape",
@@ -592,7 +610,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A1"
+						"profileID":"A2"
 					},
 					{
 						"description":"Android 4.1.1 - Sony Xperia E - Safari 4.0",
@@ -610,7 +628,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320",
-						"profileID":"A2"
+						"profileID":"A3"
 					},
 					{
 						"description":"Android 4.1.2 - Galaxy S2 - Chrome 32",
@@ -628,7 +646,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A3"
+						"profileID":"A4"
 					},
 					{
 						"description":"Android 4.1.2 - Galaxy S2 - Chrome 33",
@@ -646,7 +664,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A4"
+						"profileID":"A5"
 					},
 					{
 						"description":"Android - Firefox 47.0",
@@ -678,7 +696,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A5"
+						"profileID":"A6"
 					},
 					{
 						"description":"Android - Firefox 48.0",
@@ -710,7 +728,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A6"
+						"profileID":"A7"
 					},
 					{
 						"description":"Android - Firefox 49.0",
@@ -742,7 +760,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A7"
+						"profileID":"A8"
 					},
 					{
 						"description":"Android - Firefox 50.0",
@@ -774,7 +792,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A8"
+						"profileID":"A9"
 					},
 					{
 						"description":"Android - Firefox 51.0",
@@ -806,7 +824,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A9"
+						"profileID":"A10"
 					},
 					{
 						"description":"Android - Tablet - Firefox 47.0 (Linux 32)",
@@ -838,7 +856,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A10"
+						"profileID":"A11"
 					},
 					{
 						"description":"Android - Tablet - Firefox 47.0 (armv7l)",
@@ -870,7 +888,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A11"
+						"profileID":"A12"
 					},
 					{
 						"description":"Android - Tablet - Firefox 48.0 (Linux 32)",
@@ -902,7 +920,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A12"
+						"profileID":"A13"
 					},
 					{
 						"description":"Android - Tablet - Firefox 48.0 (armv7l)",
@@ -934,7 +952,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A13"
+						"profileID":"A14"
 					},
 					{
 						"description":"Android - Tablet - Firefox 49.0 (Linux 32)",
@@ -966,7 +984,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A14"
+						"profileID":"A15"
 					},
 					{
 						"description":"Android - Tablet - Firefox 49.0 (armv7l)",
@@ -998,7 +1016,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A15"
+						"profileID":"A16"
 					},
 					{
 						"description":"Android - Tablet - Firefox 52.0 (Linux 32)",
@@ -1030,7 +1048,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A16"
+						"profileID":"A17"
 					},
 					{
 						"description":"Android 4.4.2 - Galaxy S4 - Chrome 39.0.2171.59",
@@ -1048,7 +1066,7 @@
 						"pixeldepth":"32",
 						"colordepth":"32",
 						"screens":"360x640,640x360",
-						"profileID":"A17"
+						"profileID":"A18"
 					},
 					{
 						"description":"Android 4.4.4 - G Note 4 - Chrome 39.0.2171.59",
@@ -1066,7 +1084,7 @@
 						"pixeldepth":"32",
 						"colordepth":"32",
 						"screens":"360x640,640x360",
-						"profileID":"A18"
+						"profileID":"A19"
 					},
 					{
 						"description":"Android 4.3.1 - Galaxy S2 - Safari 534.30",
@@ -1084,7 +1102,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A19"
+						"profileID":"A20"
 					},
 					{
 						"description":"Android 4.4.2 - Galaxy S2 - Safari 537.36",
@@ -1102,7 +1120,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A20"
+						"profileID":"A21"
 					},
 					{
 						"description":"Android 5.0 - Nexus 4 - Chrome 39.0.2171.59",
@@ -1120,7 +1138,7 @@
 						"pixeldepth":"32",
 						"colordepth":"32",
 						"screens":"384x640,640x384",
-						"profileID":"A21"
+						"profileID":"A22"
 					}
 				]
 			},
@@ -1805,6 +1823,24 @@
 						"colordepth":"32",
 						"screens":"375x667,667x375",
 						"profileID":"I25"
+					},
+					{
+						"description":"iOS 12_2 - iPhone 7 Plus - Safari 12.1",
+						"useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1",
+						"appname":"Netscape",
+						"appversion":"5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1",
+						"platform":"iPhone",
+						"vendor":"Apple Computer, Inc.",
+						"vendorsub":"",
+						"buildID":"",
+						"oscpu":"",
+						"accept_encoding":"gzip,deflate",
+						"accept_default":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+						"accept_lang":{"en-US":"en-us"},
+						"pixeldepth":"32",
+						"colordepth":"32",
+						"screens":"1920x1080,1080x1920",
+						"profileID":"I26"
 					}
 				]
 			},
