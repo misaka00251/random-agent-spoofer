@@ -6,10 +6,10 @@
 				"description":"Windows Browsers",
 				"useragents":[
 					{
-						"description":"Chrome 75.0.3770.100 (Win 10 x64)",
-						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
+						"description":"Chrome 79.0.3945.79 (Win 10 x64)",
+						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36",
 						"appname":"Netscape",
-						"appversion":"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
+						"appversion":"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36",
 						"platform":"Win32",
 						"vendor":"Google Inc.",
 						"vendorsub":"",
@@ -124,8 +124,8 @@
 						"profileID":"W5"
 					},
 					{
-						"description":"Firefox 60.0 ESR (Win10 x64)",
-						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0",
+						"description":"Firefox 68.0 ESR (Win10 x64)",
+						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (Windows)",
 						"platform":"Win64",
@@ -156,8 +156,8 @@
 						"profileID":"W6"
 					},
 					{
-						"description":"Firefox 66 (Win10 x64)",
-						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
+						"description":"Firefox 70 (Win10 x64)",
+						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (Windows)",
 						"platform":"Win64",
@@ -188,8 +188,8 @@
 						"profileID":"W7"
 					},
 					{
-						"description":"Firefox 67 (Win10 x64)",
-						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+						"description":"Firefox 71 (Win10 x64)",
+						"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (Windows)",
 						"platform":"Win64",
@@ -220,10 +220,10 @@
 						"profileID":"W8"
 					},
 					{
-						"description":"Opera 62.0.3331.43 (Win 10 x64)",
-						"useragent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36 OPR/62.0.3331.43",
+						"description":"Opera 65.0.3467.69 (Win 10 x64)",
+						"useragent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 OPR/65.0.3467.69",
 						"appname":"Netscape",
-						"appversion":"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36 OPR/62.0.3331.43",
+						"appversion":"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 OPR/65.0.3467.69",
 						"platform":"Win32",
 						"vendor":"Google Inc.",
 						"vendorsub":"",
@@ -238,8 +238,8 @@
 						"profileID":"W9"
 					},
 					{
-						"description":"SeaMonkey 2.49.4 (Win 10 WOW64)",
-						"useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.4",
+						"description":"SeaMonkey 2.49.5 (Win 10 WOW64)",
+						"useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.5 Lightning/5.4",
 						"appname":"Netscape",
 						"appversion":"5.0 (Windows)",
 						"platform":"Win32",
@@ -307,10 +307,10 @@
 				"description":"Mac Browsers",
 				"useragents":[
 					{
-						"description":"Chrome 75.0.3770.100 (OS X 10_14_5)",
-						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
+						"description":"Chrome 79.0.3945.79 (OS X 10_14_5)",
+						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36",
 						"appname":"Netscape",
-						"appversion":"5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
+						"appversion":"5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36",
 						"platform":"MacIntel",
 						"vendor":"Google Inc.",
 						"vendorsub":"",
@@ -325,8 +325,8 @@
 						"profileID":"M1"
 					},
 					{
-						"description":"Firefox 60.0 ESR (OS X 10_14_5)",
-						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5; rv:60.0) Gecko/20100101 Firefox/60.0",
+						"description":"Firefox 68.0 ESR (OS X 10_14_5)",
+						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5; rv:68.0) Gecko/20100101 Firefox/68.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (Macintosh)",
 						"platform":"MacIntel",
@@ -357,8 +357,8 @@
 						"profileID":"M2"
 					},
 					{
-						"description":"Firefox 67.0 (OS X 10_14_5)",
-						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5; rv:67.0) Gecko/20100101 Firefox/67.0",
+						"description":"Firefox 71.0 (OS X 10_14_5)",
+						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5; rv:71.0) Gecko/20100101 Firefox/71.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (Macintosh)",
 						"platform":"MacIntel",
@@ -389,10 +389,10 @@
 						"profileID":"M3"
 					},
 					{
-						"description":"Opera 62.0.3331.43 (OS X 10_14_5)",
-						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36 OPR/62.0.3331.43",
+						"description":"Opera 65.0.3467.69 (OS X 10_14_5)",
+						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 OPR/65.0.3467.69",
 						"appname":"Netscape",
-						"appversion":"5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36 OPR/62.0.3331.43",
+						"appversion":"5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 OPR/65.0.3467.69",
 						"platform":"MacIntel",
 						"vendor":"Google Inc.",
 						"vendorsub":"",
@@ -425,8 +425,8 @@
 						"profileID":"M5"
 					},
 					{
-						"description":"SeaMonkey 2.49.4 (OS X 10_14_5)",
-						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.4",
+						"description":"SeaMonkey 2.49.5 (OS X 10_14_5)",
+						"useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.5 Lightning/5.4",
 						"appname":"Netscape",
 						"appversion":"5.0 (Macintosh)",
 						"platform":"MacIntel",
@@ -462,10 +462,10 @@
 				"description":"Linux Browsers",
 				"useragents":[
 					{
-						"description":"Chromium 75.0.3770.100 (Ubuntu 18.04 x64)",
-						"useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.100 Safari/537.36",
+						"description":"Chromium 79.0.3945.79 (Ubuntu 18.04 x64)",
+						"useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.79 Safari/537.36",
 						"appname":"Netscape",
-						"appversion":"5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.100 Safari/537.36",
+						"appversion":"5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.79 Safari/537.36",
 						"platform":"Linux x86_64",
 						"vendor":"Google Inc.",
 						"vendorsub":"",
@@ -480,8 +480,8 @@
 						"profileID":"L1"
 					},
 					{
-						"description":"Firefox 67 (Ubuntu 18.04 x64)",
-						"useragent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/67.0",
+						"description":"Firefox 71 (Ubuntu 18.04 x64)",
+						"useragent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (X11)",
 						"platform":"Linux x86_64",
@@ -517,10 +517,10 @@
 				"description":"Unix Browsers",
 				"useragents":[
 					{
-						"description":"Chromium 75.0.3770.100 (FreeBSD x64)",
-						"useragent":"Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/537.36 (KHTML, like Gecko) Chromium/75.0.3770.100 Safari/537.36",
+						"description":"Chromium 79.0.3945.79 (FreeBSD x64)",
+						"useragent":"Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/537.36 (KHTML, like Gecko) Chromium/79.0.3945.79 Safari/537.36",
 						"appname":"Netscape",
-						"appversion":"5.0 (X11; FreeBSD amd64) AppleWebKit/537.36 (KHTML, like Gecko) Chromium/75.0.3770.100 Safari/537.36",
+						"appversion":"5.0 (X11; FreeBSD amd64) AppleWebKit/537.36 (KHTML, like Gecko) Chromium/79.0.3945.79 Safari/537.36",
 						"platform":"FreeBSD amd64",
 						"vendor":"Google Inc.",
 						"vendorsub":"",
@@ -535,8 +535,8 @@
 						"profileID":"U1"
 					},
 					{
-						"description":"Firefox 67 (FreeBSD x64)",
-						"useragent":"Mozilla/5.0 (X11; FreeBSD amd64; rv:66.0) Gecko/20100101 Firefox/67.0",
+						"description":"Firefox 71 (FreeBSD x64)",
+						"useragent":"Mozilla/5.0 (X11; FreeBSD amd64; rv:66.0) Gecko/20100101 Firefox/71.0",
 						"appname":"Netscape",
 						"appversion":"5.0 (X11)",
 						"platform":"FreeBSD amd64",
@@ -577,6 +577,24 @@
 				"description":"Android Browsers",
 				"useragents":[
 					{
+						"description":"Android 10.0 - Chrome 79 on OnePlus 7 Pro",
+						"useragent":"Mozilla/5.0 (Linux; Android 10; GM1910) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36",
+						"appname":"Netscape",
+						"appversion":"5.0 (Linux; Android 10; GM1910) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36)",
+						"platform":"Linux armv8l",
+						"vendor":"Google Inc.",
+						"vendorsub":"",
+						"buildID":"",
+						"oscpu":"",
+						"accept_encoding":"gzip, deflate, br",
+						"accept_default":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+						"accept_lang":{"en-US":"en-US;q=0.8,en;q=0.7"},
+						"pixeldepth":"24",
+						"colordepth":"24",
+						"screens":"1440x3120,3120x1440",
+						"profileID":"A1"
+					},
+					{
 						"description":"Android 9.0 - Chrome 74 on Samsung SM-G960F",
 						"useragent":"Mozilla/5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36",
 						"appname":"Netscape",
@@ -592,7 +610,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"1125x2436,2436x1125",
-						"profileID":"A1"
+						"profileID":"A2"
 					},
 					{
 						"description":"Android 4.0.3 - Galaxy S2 - Safari 534.30",
@@ -610,7 +628,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A2"
+						"profileID":"A3"
 					},
 					{
 						"description":"Android 4.1.1 - Sony Xperia E - Safari 4.0",
@@ -628,7 +646,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320",
-						"profileID":"A3"
+						"profileID":"A4"
 					},
 					{
 						"description":"Android 4.1.2 - Galaxy S2 - Chrome 32",
@@ -646,7 +664,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A4"
+						"profileID":"A5"
 					},
 					{
 						"description":"Android 4.1.2 - Galaxy S2 - Chrome 33",
@@ -664,7 +682,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A5"
+						"profileID":"A6"
 					},
 					{
 						"description":"Android - Firefox 47.0",
@@ -696,7 +714,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A6"
+						"profileID":"A7"
 					},
 					{
 						"description":"Android - Firefox 48.0",
@@ -728,7 +746,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A7"
+						"profileID":"A8"
 					},
 					{
 						"description":"Android - Firefox 49.0",
@@ -760,7 +778,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A8"
+						"profileID":"A9"
 					},
 					{
 						"description":"Android - Firefox 50.0",
@@ -792,7 +810,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A9"
+						"profileID":"A10"
 					},
 					{
 						"description":"Android - Firefox 51.0",
@@ -824,7 +842,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x480,480x320,320x533,533x320,360x640,640x360,384x640,640x384",
-						"profileID":"A10"
+						"profileID":"A11"
 					},
 					{
 						"description":"Android - Tablet - Firefox 47.0 (Linux 32)",
@@ -856,7 +874,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A11"
+						"profileID":"A12"
 					},
 					{
 						"description":"Android - Tablet - Firefox 47.0 (armv7l)",
@@ -888,7 +906,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A12"
+						"profileID":"A13"
 					},
 					{
 						"description":"Android - Tablet - Firefox 48.0 (Linux 32)",
@@ -920,7 +938,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A13"
+						"profileID":"A14"
 					},
 					{
 						"description":"Android - Tablet - Firefox 48.0 (armv7l)",
@@ -952,7 +970,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A14"
+						"profileID":"A15"
 					},
 					{
 						"description":"Android - Tablet - Firefox 49.0 (Linux 32)",
@@ -984,7 +1002,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A15"
+						"profileID":"A16"
 					},
 					{
 						"description":"Android - Tablet - Firefox 49.0 (armv7l)",
@@ -1016,7 +1034,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A16"
+						"profileID":"A17"
 					},
 					{
 						"description":"Android - Tablet - Firefox 52.0 (Linux 32)",
@@ -1048,7 +1066,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"552x960,960x552",
-						"profileID":"A17"
+						"profileID":"A18"
 					},
 					{
 						"description":"Android 4.4.2 - Galaxy S4 - Chrome 39.0.2171.59",
@@ -1066,7 +1084,7 @@
 						"pixeldepth":"32",
 						"colordepth":"32",
 						"screens":"360x640,640x360",
-						"profileID":"A18"
+						"profileID":"A19"
 					},
 					{
 						"description":"Android 4.4.4 - G Note 4 - Chrome 39.0.2171.59",
@@ -1084,7 +1102,7 @@
 						"pixeldepth":"32",
 						"colordepth":"32",
 						"screens":"360x640,640x360",
-						"profileID":"A19"
+						"profileID":"A20"
 					},
 					{
 						"description":"Android 4.3.1 - Galaxy S2 - Safari 534.30",
@@ -1102,7 +1120,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A20"
+						"profileID":"A21"
 					},
 					{
 						"description":"Android 4.4.2 - Galaxy S2 - Safari 537.36",
@@ -1120,7 +1138,7 @@
 						"pixeldepth":"24",
 						"colordepth":"24",
 						"screens":"320x533,533x320",
-						"profileID":"A21"
+						"profileID":"A22"
 					},
 					{
 						"description":"Android 5.0 - Nexus 4 - Chrome 39.0.2171.59",
@@ -1138,7 +1156,7 @@
 						"pixeldepth":"32",
 						"colordepth":"32",
 						"screens":"384x640,640x384",
-						"profileID":"A22"
+						"profileID":"A23"
 					}
 				]
 			},
