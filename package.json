@@ -4,7 +4,7 @@
 	"id": "jid1-AVgCeF1zoVzMjA@jetpack",
 	"description": "Allows the use of various browser profiles (including useragent ,platform, oscpu, accept headers and other options), which it can randomly switch between after a chosen period of time has expired",
 	"author": "gitbugged",
-	"homepage":"https://github.com/gitbugged/random-agent-spoofer",
+	"homepage":"https://github.com/misaka00251/random-agent-spoofer",
 	"license": "GNU GPL v3",
 	"permissions": { "private-browsing": true },
 	"icon":{"48":"resource://jid1-AVgCeF1zoVzMjA-at-jetpack/data/images/icon.png"},
