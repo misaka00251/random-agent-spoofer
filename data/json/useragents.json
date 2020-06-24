@@ -2544,25 +2544,25 @@
                         "pixeldepth": "24",
                         "colordepth": "24",
                         "screens": "1324x745",
-                        "profileID": "G18"
+                        "profileID": "G19"
                     },
                     {
-                        "description": "Valve Steam Browser (Windows 64 bit)",
-                        "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam Client/default/1579321278; ) AppleWebKit/537.36 (KHTML, like Gecko)",
+                        "description": "Valve Steam Browser (Windows 10 64-bit)",
+                        "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam Client/default/1591251555; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36",
                         "appname": "Netscape",
-                        "appversion": "5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam Client/default/1579321278; ) AppleWebKit/537.36 (KHTML, like Gecko)",
+                        "appversion": "5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam Client/default/1591251555; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36",
                         "platform": "Win32",
                         "vendor": "",
                         "vendorsub": "",
                         "buildID": "",
                         "oscpu": "",
-                        "accept_encoding": "gzip,deflate",
-                        "accept_default": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+                        "accept_encoding": "gzip,deflate,br",
+                        "accept_default": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
                         "accept_lang": { "en-US": "en-US,en;q=0.9" },
                         "pixeldepth": "24",
                         "colordepth": "24",
                         "screens": "1920x1080",
-                        "profileID": "G18"
+                        "profileID": "G20"
                     }
                 ]
             },
