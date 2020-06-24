@@ -403,7 +403,7 @@
                         "profileID": "M4"
                     },
                     {
-                        "description": "Safari 12 (605.1.15 OS X 10_15_5)",
+                        "description": "Safari 13.1.1 (605.1.15 OS X 10_15_5)",
                         "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15",
                         "appname": "Netscape",
                         "appversion": "5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15",
@@ -1833,21 +1833,21 @@
                         "profileID": "I25"
                     },
                     {
-                        "description": "iOS 12_2 - iPhone 7 Plus - Safari 12.1",
-                        "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1",
+                        "description": "iOS 13_5_1 - iPhone 11 Pro - Safari 13.1.1",
+                        "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1",
                         "appname": "Netscape",
-                        "appversion": "5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1",
+                        "appversion": "5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1",
                         "platform": "iPhone",
                         "vendor": "Apple Computer, Inc.",
                         "vendorsub": "",
                         "buildID": "",
                         "oscpu": "",
-                        "accept_encoding": "gzip,deflate",
+                        "accept_encoding": "gzip,deflate,br",
                         "accept_default": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                         "accept_lang": { "en-US": "en-us" },
                         "pixeldepth": "32",
                         "colordepth": "32",
-                        "screens": "1920x1080,1080x1920",
+                        "screens": "375x812,812x375",
                         "profileID": "I26"
                     }
                 ]
